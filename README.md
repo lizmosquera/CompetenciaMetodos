@@ -3,17 +3,18 @@
 Archivos de la competencia  
 https://www.overleaf.com/9659178318kztvcxbpthcc Archivo de Overleaf
 
-Integrantes:\\
- Javier Arturo Rozo Alzate - jarozoa@eafit.edu.co\\
- Alejandro Palacio Vásquez - apalac19@eafit.edu.co \\
- Liceth Cristina Mosquera Galvis - lcmosquerg@eafit.edu.co \\
- Cristian David Muñoz Mora - cdmunozm@eafit.edu.co \\
- Programa: Métodos Estadísticos Avanzados\\ Docente: \\ Andrés Ramirez Hassan - aramir21@eafit.edu.co
+Integrantes:<br/>
+ Javier Arturo Rozo Alzate - jarozoa@eafit.edu.co<br/>
+ Alejandro Palacio Vásquez - apalac19@eafit.edu.co <br/>
+ Liceth Cristina Mosquera Galvis - lcmosquerg@eafit.edu.co <br/>
+ Cristian David Muñoz Mora - cdmunozm@eafit.edu.co <br/>
+ Programa: Métodos Estadísticos Avanzados<br/>
+ Docente:  Andrés Ramirez Hassan - aramir21@eafit.edu.co<br/>
 
 ## Resumen:
 En este documento se presenta la metodología utilizada para abordar el problema de selección de variables y predicción planteado en la materia, para 3 bases de datos diferentes. Se inicia con un análisis exploratorio de la información, para posteriormente realizar con diferentes modelos estadísticos la selección de las variables explicativas más significativas y finalmente proceder a evaluar los resultados de predicción.
 
-Palabras Clave: Selección de variables.\\
+Palabras Clave: Selección de variables, Ridge, BMA, Lasso, Elastic Net.<br/>
 
 ## Introducción:
 En estadística, los métodos de regularización son utilizados para la selección del modelo y para evitar el sobreajuste en las técnicas predictivas. Por ende, al abordar el trabajo, se quiere ofrecer una revisión general de la metodología y diferentes fases del proceso de selección de variables de una base de datos con alta dimensionalidad, así como de los criterios de selección y descripción de las diferentes técnicas que pueden utilizarse en la investigación de carácter aplicativo a la ciencias de los datos con diferentes metodologías y con el uso apropiado de las técnicas estadísticas, que ha de ser acorde con el tipo de información disponible.
