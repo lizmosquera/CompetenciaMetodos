@@ -11,7 +11,7 @@ Para el tratamiento de la base de datos de conteo se tiene el código de desarro
 Para el tratamiento de la base de datos binaria se tiene el código de desarrollo del modelo en https://github.com/lizmosquera/CompetenciaMetodos/blob/master/binariav5.R y el ejecutable en https://github.com/lizmosquera/CompetenciaMetodos/blob/master/Ejecutablev2.R.
 
 
-#Autores ✒️ <br/>
+# Autores ✒️ <br/>
  Javier Arturo Rozo Alzate - jarozoa@eafit.edu.co<br/>
  Alejandro Palacio Vásquez - apalac19@eafit.edu.co <br/>
  Liceth Cristina Mosquera Galvis - lcmosquerg@eafit.edu.co <br/>
